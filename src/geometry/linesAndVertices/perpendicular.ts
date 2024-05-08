@@ -1,4 +1,3 @@
-import { squaredDistance } from './squaredDistance';
 import { Point } from '../../core/point';
 import { normalize } from './normalize';
 
