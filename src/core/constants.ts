@@ -8,7 +8,7 @@ export const pi = 3.141592653589793;
 export const sqrt2 = 1.4142135623730951;
 
 // Theodorus' constant
-export const sqrt3 = 1.7320508075688773;
+export const sqrt3 = 1.7320508075688772;
 
 // Square root of 1/2
 export const sqrtHalf = 0.7071067811865476;
