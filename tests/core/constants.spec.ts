@@ -20,7 +20,7 @@ test('Constants should be constant', () => {
   expect(tau).toEqual(6.283185307179586);
   expect(pi).toEqual(3.141592653589793);
   expect(sqrt2).toEqual(1.4142135623730951);
-  expect(sqrt3).toEqual(1.7320508075688773);
+  expect(sqrt3).toEqual(1.7320508075688772);
   expect(sqrtHalf).toEqual(0.7071067811865476);
   expect(phi).toEqual(1.618033988749895);
   expect(e).toEqual(2.718281828459045);
