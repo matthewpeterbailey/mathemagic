@@ -1,10 +1,10 @@
 // Core
-export { min } from './core/min';
-export { max } from './core/max';
-export { sum } from './core/sum';
-export { cross } from './core/cross';
-export { Point } from './core/point';
 export * from './core/constants';
+export { cross } from './core/cross';
+export { max } from './core/max';
+export { min } from './core/min';
+export { Point } from './core/point';
+export { sum } from './core/sum';
 
 // Geometry - Circle
 export { areaFromRadius } from './geometry/circle/areaFromRadius';
@@ -19,6 +19,13 @@ export { perpendicular } from './geometry/linesAndVertices/perpendicular';
 
 // Geometry - Square
 export { square } from './geometry/square/square';
+
+// Matrices
+export { matrixPower } from './matrices/matrixPower';
+export { multiplyMatrices } from './matrices/multiplyMatrices';
+
+// Sequences
+export { fibonacci } from './sequences/fibonacci';
 
 // Stats
 export { stats } from './stats/stats';
