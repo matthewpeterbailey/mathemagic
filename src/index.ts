@@ -1,6 +1,7 @@
 // Core
 export * from './core/constants';
 export { cross } from './core/cross';
+export { dot } from './core/dot';
 export { max } from './core/max';
 export { min } from './core/min';
 export { Point } from './core/point';
